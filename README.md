@@ -1,6 +1,6 @@
 # KooleyThemes Web Development Studio
 
-**Live Website:** [https://anselmem.github.io/Kooleythemes.com/](https://anselmem.github.io/Kooleythemes.com/)
+**Live Website:** (https://anselmem.github.io/Kooleythemes/)
 
 A modern, high-performance, and beautifully animated portfolio website for **KooleyThemes**. 
 
