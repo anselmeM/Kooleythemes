@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Centrion-Regular';
+    src: url('Centrion-Regular.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Nixie-One-Light';
+    src: url('NixieOne.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Nixie-One-Regular';
+    src: url('NixieOne-r.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Blackhead';
+    src: url('BlackheadLightFREE.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "gsap": "^3.14.2"
+  },
+  "scripts": {
+    "test": "./run_tests.sh"
+  }
+}
